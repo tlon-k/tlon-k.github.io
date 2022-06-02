@@ -1,5 +1,11 @@
 ![ロゴ](img.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mZynDST7ibw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a class="twitter-timeline" data-height="600" href="https://twitter.com/tlon_k?ref_src=twsrc%5Etfw">Tweets by tlon_k</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 # <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
 独学５年以上のプログラマです。
 プライベートでは、プログラミングの他、音楽、子供とサッカーなど幅広く活動しています。
